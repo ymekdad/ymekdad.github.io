@@ -10,12 +10,12 @@ function loadScriptAsync(scriptSrc, callback) {
 }
 
 /* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
-loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-QDNXQJ007Y', function(){
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-0RNQS33SX8', function(){
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-QDNXQJ007Y', { 'anonymize_ip': true });
+    gtag('config', 'G-0RNQS33SX8', { 'anonymize_ip': true });
 })
 
 
