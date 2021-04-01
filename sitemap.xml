@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://ymekdad.github.io/</loc>
+  <lastmod>2021-04-01T05:07:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/Publications.html</loc>
+  <lastmod>2021-04-01T05:20:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/Analytics.html</loc>
+  <lastmod>2021-04-01T05:18:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/Timeline.html</loc>
+  <lastmod>2021-04-01T05:10:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/nojs.html</loc>
+  <lastmod>2021-04-01T05:07:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/404.html</loc>
+  <lastmod>2021-04-01T05:07:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ymekdad.github.io/index.html</loc>
+  <lastmod>2021-04-01T05:07:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
