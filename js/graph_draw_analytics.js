@@ -8,7 +8,7 @@ google.charts.load('current', {
 google.charts.setOnLoadCallback(drawRegionsMap);
 
 function get_json() {
-return $.getJSON('./files/analytics_report.json');
+return $.getJSON('./files/raw.json');
 }
 
 function drawRegionsMap() {
