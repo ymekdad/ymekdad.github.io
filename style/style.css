@@ -29,8 +29,8 @@ body {
 
 #content {
   clear: left;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .logo {
@@ -42,7 +42,7 @@ body {
 .logo img{
   vertical-align: middle;
   max-width: 23%;
-  min-width: 150px;
+  min-width: 100px;
   margin: 5px auto;
 }
 
@@ -56,7 +56,7 @@ body {
   border-radius: 5px;
   list-style-type: none;
   padding: 8px;
-  background-color: #780000;
+  background-color: #9B0014;
   margin-left: 10px;
   margin-right: 10px;
   /*display: flex;*/

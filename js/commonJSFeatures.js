@@ -25,7 +25,7 @@ document.getElementById("header_area_id").innerHTML +=  "\
 			<a target=\"_blank\" href=\"http://www.unipd.it/en/\"><img src=\"./images/unipd.png\" alt=\"Unipd\" width=\"200\"></a> \
 		<a target=\"_blank\" href=\"http://spritz.math.unipd.it/index.html\"><img src=\"./images/spritz.png\" alt=\"SPRITZ\"></a> \
 		</div>\
-	";
+		";
 /* Header Ends */
 
 /* Menu Begins */
