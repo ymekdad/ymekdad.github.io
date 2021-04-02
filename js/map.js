@@ -1,1 +1,0 @@
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=56q7a7urxjv&amp;m=0&amp;h=256&amp;c=5cde1d&amp;r=40" async="async"></script>
