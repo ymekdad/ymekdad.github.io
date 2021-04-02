@@ -1,6 +1,6 @@
 Sitemap: https://ymekdad.github.io/sitemap.xml
 User-agent: AhrefsBot
-Disallow: / 
+ 
 
 User-Agent: *
 Disallow: /files/
