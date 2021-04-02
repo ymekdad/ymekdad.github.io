@@ -22,8 +22,8 @@ document.getElementById("header_area_id").innerHTML +=  "\
 		<a target=\"_blank\" href=\"http://www.umi.ac.ma/?lang=en\"><img src=\"./images/FSM.jpg\" alt=\"DM\" width=\"200\"></a>\
 		<a target=\"_blank\" href=\"http://www.fiu.edu\"><img src=\"./images/FIU.png\" alt=\"FIU\" width=\"200\" ></a> \
 		<a target=\"_blank\" href=\"http://csl.fiu.edu\"><img src=\"./images/CSL.jpg\" alt=\"CSL\" width=\"5\"></a> \
+			<a target=\"_blank\" href=\"http://www.unipd.it/en/\"><img src=\"./images/unipd.png\" alt=\"Unipd\" width=\"200\"></a> \
 		<a target=\"_blank\" href=\"http://spritz.math.unipd.it/index.html\"><img src=\"./images/spritz.png\" alt=\"SPRITZ\"></a> \
-		<a target=\"_blank\" href=\"http://www.unipd.it/en/\"><img src=\"./images/unipd.png\" alt=\"Unipd\" width=\"200\"></a> \
 		</div>\
 	";
 /* Header Ends */
