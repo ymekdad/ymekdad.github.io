@@ -15,18 +15,16 @@
 		alert("It is necessary to enable 'localStorage' property (commonly found under Cookies) for the functionality of this website. Please enable it and refresh the page for seamless navigation throughout this website.");
 	}
 /* localStorage Ends */
-
-/* Header Begins */
-document.getElementById("header_area_id").innerHTML +=  "\
-		<div class=\"logo\">\
-		<a style=\"padding-right:10px;\" target=\"_blank\" href=\"http://www.umi.ac.ma/?lang=en\"><img src=\"./images/FSM.jpg\" alt=\"DM\" width=\"200\"></a>\
-		<a style=\"padding-right:5px;\" target=\"_blank\" href=\"http://www.fiu.edu\"><img src=\"./images/FIU.png\" alt=\"FIU\" width=\"200\" ></a> \
-		<a style=\"padding-right:10px;\" target=\"_blank\" href=\"http://csl.fiu.edu\"><img src=\"./images/CSL.jpg\" alt=\"CSL\" width=\"5\"></a> \
-			<a target=\"_blank\" href=\"http://www.unipd.it/en/\"><img src=\"./images/unipd.png\" alt=\"Unipd\" width=\"200\"></a> \
-		<a style=\"padding-left:10px;\" target=\"_blank\" href=\"http://spritz.math.unipd.it/index.html\"><img src=\"./images/spritz.png\" alt=\"SPRITZ\"></a> \
-		</div>\
-		";
-/* Header Ends */
+document.getElementById("header_area_id").innerHTML += `
+    <div class="logo">
+        <a href="http://www.fiu.edu" target="_blank" style="padding-right:5px;">
+            <img src="./images/FIU.png" alt="FIU logo" width="200">
+        </a>
+        <a href="http://csl.fiu.edu" target="_blank" style="padding-right:10px;">
+            <img src="./images/CSL.jpg" alt="CSL logo" width="5">
+        </a>
+    </div>
+`;
 
 /* Menu Begins */
 	document.getElementById("menu_bar_div").innerHTML += "\
@@ -53,7 +51,7 @@ document.getElementById("header_area_id").innerHTML +=  "\
 /* Menu Ends */
 
 /* Footer Begins */
-	var update_date = "April 01, 2021";
+	var update_date = "April 01, 2024";
 	var curr_year = new Date();
 
 	document.getElementById("footer").innerHTML +=  "\
