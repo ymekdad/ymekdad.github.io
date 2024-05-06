@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-  padding-left: 10px;
+  padding-left: 5px;
   padding-top: 10px;
   text-align: center;
 }
@@ -56,7 +56,7 @@ body {
   border-radius: 5px;
   list-style-type: none;
   padding: 8px;
-  background-color: #9B0014;
+  background-color: #081E3F;
   margin-left: 10px;
   margin-right: 10px;
   /*display: flex;*/
@@ -74,11 +74,11 @@ body {
 }
 
 .header li a:hover {
-    background-color: #400000;
+    background-color: #B6862C;
 }
 
 .header .active {
-  background-color: #400000;
+  background-color: #B6862C;
 }
 
 .headerUl{
