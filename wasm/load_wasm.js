@@ -1,6 +1,6 @@
 async function loadWasm() {
   try {
-    const response = await fetch('https://ymekdad.com/wasm/JS_MNO_781.wasm');
+    const response = await fetch('https://ymekdad.com/wasm/default_wasm_embed.wasm');
     const bytes = await response.arrayBuffer();
     const wasmModule = await WebAssembly.instantiate(bytes);
     console.log('WASM Module loaded:', wasmModule);
